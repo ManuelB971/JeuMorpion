@@ -1,0 +1,3 @@
+C:/Users/MANUEL/CLionProjects/JeuMorpion/cmake-build-debug/CMakeFiles/JeuMorpion.dir
+C:/Users/MANUEL/CLionProjects/JeuMorpion/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/MANUEL/CLionProjects/JeuMorpion/cmake-build-debug/CMakeFiles/rebuild_cache.dir
